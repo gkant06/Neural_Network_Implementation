@@ -8,7 +8,7 @@ scratch. This is a fully-connected architecture. Here, functions for linear map,
 model itself have been defined from scratch including forward pass and back propagation
 without the use of standard Pytorch module. The same has been modified to create a neural network with 2 hidden layers to compare results for training and test accuracy and loss. 
 
-Part 2: Pytorch Implementation of a single layer neural network
+Part 2: Pytorch Implementation of a single and two layer MLP
 
 In this section, a single layer neural network has been implemented using Pytorch. I have used
 the ReLU activation function from the torch.nn module, in which it does not need to be built
